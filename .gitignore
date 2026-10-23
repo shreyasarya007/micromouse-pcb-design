@@ -1,0 +1,15 @@
+# Public source only: do not reintroduce private archive/history or unreviewed assets.
+*.zip
+*.bak
+*-bak
+*.lck
+*.kicad_prl
+fp-info-cache
+.history/
+*-backups/
+3d view/
+*.step
+*.STEP
+*.stp
+*.STP
+*.xlsx
